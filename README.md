@@ -30,7 +30,7 @@ beginner-python-projects/
 │ ├── shopping_list.py
 │ ├── README.md
 
-=======
+
 # 🚀 Projects List
 1. **Age Calculator** – Calculates your current age and estimates retirement.
 2. **Shopping List** – Add, remove, and save items to a text file.
