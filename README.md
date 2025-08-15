@@ -1,7 +1,7 @@
 # Beginner Python Projects 🐍
 
 Welcome to **Beginner Python Projects**!  
-This repository contains small, practical, and fun Python projects designed for people who are starting their programming journey.  
+This repository contains small, practical, and fun Python projects designed for people who are starting their programming journey.
 
 Whether you are learning Python to change careers, build a portfolio, or simply test your skills, these projects will help you practice and grow step by step.
 
@@ -21,6 +21,7 @@ Each folder contains:
 - Optional JSON or data files if needed by the project.
 
 Example structure:
+
 beginner-python-projects/
 │
 ├── age_calculator/
@@ -41,13 +42,9 @@ beginner-python-projects/
 
 ## 🚀 Projects List
 1. **[Age Calculator](https://github.com/marcelotorres1982/beginner-python-projects/tree/main/age_calculator)** – Calculates your current age and estimates retirement.  
-
 2. **[Shopping List](https://github.com/marcelotorres1982/beginner-python-projects/tree/main/shopping_list)** – Add, remove, and save items to a list.  
-
 3. **[Contact Book (JSON)](https://github.com/marcelotorres1982/beginner-python-projects/tree/main/contact_book)** – Save and manage contacts in JSON format.  
-
 4. Number Guessing Game – Try to guess the number chosen by the computer.  
-
 5. Currency Converter – Convert BRL to USD, EUR, or BTC.  
 
 ---
@@ -55,7 +52,8 @@ beginner-python-projects/
 ## 🛠 How to Run a Project
 1. Clone this repository:
 ```bash
-  git clone https://github.com/marcelotorres1982/beginner-python-projects.git
+git clone https://github.com/marcelotorres1982/beginner-python-projects.git
+
 ```
 2. Navigate to the project folder:
 ```bash
