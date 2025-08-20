@@ -12,7 +12,7 @@
 
 
 🚀 Sistema moderno e intuitivo para gerenciar agendamentos de barbearias
-📋 Funcionalidades • 🛠️ Instalação • 🎯 Como Usar • 📸 Screenshots • 🤝 Contribuição
+📋 Funcionalidades • 🛠️ Instalação • 🎯 Como Usar • 🤝 Contribuição
 </div>
 
 🌟 Visão Geral
