@@ -1,15 +1,23 @@
 💈 BarberVibe - Sistema de Agendamentos para Barbearias
 <div align="center">
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
-Mostrar Imagem
+<img width="1913" height="996" alt="image" src="https://github.com/user-attachments/assets/01536bc7-b838-4e15-b41a-91d5e554a3ec" />
+
+<img width="1914" height="988" alt="image" src="https://github.com/user-attachments/assets/fc896651-bfbe-46bf-adc2-c37e10c07adc" />
+
+<img width="1914" height="984" alt="image" src="https://github.com/user-attachments/assets/0c079fb1-dbde-40c2-a2a1-387751dee353" />
+
+<img width="1913" height="990" alt="image" src="https://github.com/user-attachments/assets/f0fcdad9-84b5-4532-ae8c-d23129b2fb5b" />
+
+
+
+
 🚀 Sistema moderno e intuitivo para gerenciar agendamentos de barbearias
 📋 Funcionalidades • 🛠️ Instalação • 🎯 Como Usar • 📸 Screenshots • 🤝 Contribuição
 </div>
 
 🌟 Visão Geral
-O BarberVibe é um sistema completo de agendamentos desenvolvido especialmente para barbearias modernas. Com uma interface intuitiva e recursos avançados, facilita a gestão diária dos compromissos e melhora a experiência dos clientes.
+O BarberVibe é um sistema completo de agendamentos desenvolvido especialmente para barbearias modernas. 
+Com uma interface intuitiva e recursos avançados, facilita a gestão diária dos compromissos e melhora a experiência dos clientes.
 ✨ Por que escolher o BarberVibe?
 
 🎨 Interface Moderna: Design limpo e profissional
@@ -57,16 +65,22 @@ pip (gerenciador de pacotes do Python)
 
 Clone o repositório
 
-bashgit clone https://github.com/seu-usuario/barbervibe.git
+```bash
+git clone https://github.com/marcelotorres1982/beginner-python-projects/tree/main/BarberVibe
 cd barbervibe
+```
 
 Instale as dependências
 
-bashpip install streamlit
+```bash
+pip install streamlit
+```
 
 Execute o aplicativo
 
-bashstreamlit run barbervibe.py
+```bash
+streamlit run barbervibe.py
+```
 
 Acesse no navegador
 
@@ -170,12 +184,11 @@ Encontrou um bug? Abra uma issue com:
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 👨‍💻 Autor
-Seu Nome
+Marcelo Torres
 
-🌐 Website: seusite.com
-📧 Email: seu.email@exemplo.com
-💼 LinkedIn: @seulinkedin
-🐙 GitHub: @seugithub
+📧 Email: marcelotorres1982@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/marcelo-t-554b8045/
+🐙 GitHub: https://github.com/marcelotorres1982
 
 
 🙏 Agradecimentos
@@ -188,15 +201,14 @@ Seu Nome
 
 <div align="center">
 ⭐ Se este projeto te ajudou, considere dar uma estrela!
-Feito com ❤️ e muito ☕ por [Seu Nome]
-Mostrar Imagem
+Feito com ❤️ e muito ☕ por Marcelo Torres
 </div>
 
 📞 Suporte
 Precisa de ajuda? Entre em contato:
 
 💬 Issues: GitHub Issues
-📧 Email: suporte@barbervibe.com
+📧 Email: marcelotorres1982@gmail.com
 💭 Discussões: GitHub Discussions
 
 
