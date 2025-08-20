@@ -1,24 +1,32 @@
 # Beginner Python Projects 🐍
 
-Welcome to **Beginner Python Projects**!  
-This repository contains small, practical, and fun Python projects designed for people who are starting their programming journey.
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![GitHub stars](https://img.shields.io/github/stars/marcelotorres1982/beginner-python-projects)
+![GitHub forks](https://img.shields.io/github/forks/marcelotorres1982/beginner-python-projects)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-Whether you are learning Python to change careers, build a portfolio, or simply test your skills, these projects will help you practice and grow step by step.
+Welcome to **Beginner Python Projects**!  
+This repository contains **small, practical, and fun Python projects** designed for beginners who are starting their programming journey.
+
+Whether you are learning Python to **change careers**, **build a portfolio**, or simply **test your skills**, these projects will help you practice and grow step by step.
 
 ---
 
 ## 🎯 Purpose
-- Help beginners **practice programming concepts** in real projects.
-- Encourage people to **build and share** their own solutions.
-- Create a **community of learners** who help each other.
+
+- Help beginners practice programming concepts in real projects  
+- Encourage people to build and share their own solutions  
+- Create a community of learners who help each other  
 
 ---
 
 ## 📂 Repository Structure
+
 Each folder contains:
-- The Python script for the project.
-- A `README.md` explaining the goal, concepts used, and how to run it.
-- Optional JSON or data files if needed by the project.
+
+- The Python script for the project  
+- A `README.md` explaining the goal, concepts used, and how to run it  
+- Optional JSON or data files if needed by the project  
 
 Example structure:
 
@@ -36,16 +44,50 @@ beginner-python-projects/
 │ ├── contact_book.py
 │ ├── contacts.json
 │ └── README.md
+│
+├── number_guessing_game/
+│ ├── guessing_game.py
+│ └── README.md
+│
+├── currency_converter/
+│ ├── currency_converter.py
+│ └── README.md
 
 
 ---
 
 ## 🚀 Projects List
-1. **[Age Calculator](https://github.com/marcelotorres1982/beginner-python-projects/tree/main/age_calculator)** – Calculates your current age and estimates retirement.  
-2. **[Shopping List](https://github.com/marcelotorres1982/beginner-python-projects/tree/main/shopping_list)** – Add, remove, and save items to a list.  
-3. **[Contact Book (JSON)](https://github.com/marcelotorres1982/beginner-python-projects/tree/main/contact_book)** – Save and manage contacts in JSON format.  
-4. **[Number Guessing Game](https://github.com/marcelotorres1982/beginner-python-projects/tree/main/number_guessing_game)** – Try to guess the number chosen by the computer.  
-5. Currency Converter – Convert BRL to USD, EUR, or BTC.  
+
+- **🧮 Age Calculator** – Calculates your current age and estimates retirement  
+- **🛒 Shopping List** – Add, remove, and save items to a list  
+- **📇 Contact Book (JSON)** – Save and manage contacts in JSON format  
+- **🎲 Number Guessing Game** – Try to guess the number chosen by the computer  
+- **💱 Currency & Crypto Converter** – Convert **fiat currencies** (BRL, USD, EUR) and **cryptocurrencies** (BTC, ETH) in real-time. Supports multiple targets and shows current exchange rates  
+
+---
+
+## 💻 Demo: Currency & Crypto Converter
+
+```bash
+💱 Currency & Crypto Converter (Real-Time)
+Enter base currency (e.g., USD, EUR, BRL): BRL
+Enter target currencies (e.g., USD, EUR, BTC, ETH): USD, ETH
+Enter amount in BRL: 15000
+```
+
+📊 Conversion results:
+15000 BRL = 2935.50 USD (Rate: 0.1957)
+15000 BRL = 0.78 ETH (1 ETH = 19200.00 BRL)
+
+---
+
+## 🛠 How to Run a Project
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/marcelotorres1982/beginner-python-projects.git
+```
 
 ---
 
