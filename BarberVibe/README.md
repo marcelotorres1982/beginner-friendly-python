@@ -2,17 +2,8 @@
 <div align="center">
 <img width="1913" height="996" alt="image" src="https://github.com/user-attachments/assets/01536bc7-b838-4e15-b41a-91d5e554a3ec" />
 
-<img width="1914" height="988" alt="image" src="https://github.com/user-attachments/assets/fc896651-bfbe-46bf-adc2-c37e10c07adc" />
-
-<img width="1914" height="984" alt="image" src="https://github.com/user-attachments/assets/0c079fb1-dbde-40c2-a2a1-387751dee353" />
-
-<img width="1913" height="990" alt="image" src="https://github.com/user-attachments/assets/f0fcdad9-84b5-4532-ae8c-d23129b2fb5b" />
-
-
-
-
 🚀 Sistema moderno e intuitivo para gerenciar agendamentos de barbearias
-📋 Funcionalidades • 🛠️ Instalação • 🎯 Como Usar • 🤝 Contribuição
+📋 Funcionalidades • 🛠️ Instalação • 🎯 Como Usar • 📸 Screenshots • 🤝 Contribuição
 </div>
 
 🌟 Visão Geral
@@ -115,11 +106,16 @@ Comece criando seus primeiros agendamentos!
 📸 Screenshots
 <div align="center">
 🏠 Tela Principal
+<img width="1914" height="988" alt="image" src="https://github.com/user-attachments/assets/fc896651-bfbe-46bf-adc2-c37e10c07adc" />
+
 Interface limpa e moderna com navegação intuitiva
 📅 Agendamento
 Seleção de data visual e horários organizados
+<img width="1914" height="984" alt="image" src="https://github.com/user-attachments/assets/0c079fb1-dbde-40c2-a2a1-387751dee353" />
+
 📋 Visualização
 Lista completa de agendamentos com detalhes
+<img width="1913" height="990" alt="image" src="https://github.com/user-attachments/assets/f0fcdad9-84b5-4532-ae8c-d23129b2fb5b" />
 </div>
 
 📂 Estrutura do Projeto
